@@ -1,3 +1,4 @@
-# @dasm-addons
+# @dasm-eslint
 
-Addon tools for dasm js to allow code lint and analysis.
+Attempt to make a eslint plugin for dasm.
+
